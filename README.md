@@ -1,16 +1,27 @@
-# Olá, eu sou o nathan 👋 
-<br>
-seja bem vindo(a) ao meu repositorio.
+# Olá, eu sou o Nathan 👋 <br> Seja bem vindo(a) ao meu repositorio.
 
-## Ferramentas que utilizo atualmente ou aprendendo 
-<div style= "display: inline-block"><br>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+- 💻 Sou desenvolvedor front-end
+- 📖 Atualmente estou estudando typeScript, react.js e conhecendo o csharp <br>
+- ⛳ Meta: minha meta esse ano é ter a oportunidade de entrar na area.
+ ## Essas são as ferramentas que conheço e utilizo
+<div style="display: inline-block;"><br>
+    <img width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
+    <img width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
-Atualmente estou estudando typeScript e o react.js e ampliando meus conhecimentos na area da tecnologia que está sempre crescendo e mudando!<br>
 <br>
 
 ## Ultimos Projetos
 
 - [7days of code](https://7daysofcodenathanlds.vercel.app/)
+- [Pagina da Newsletter](https://alura-newsletter-pied.vercel.app/)
+- [todo list](https://todo-list-nth.vercel.app/)
+- [Calculadora](https://calculadora-nth.vercel.app/)
+- [Calculador de idade](https://calculador-de-idade-nth.vercel.app/)
+  
