@@ -3,7 +3,7 @@
 
 - 💻 Sou desenvolvedor front-end
 - 📖 Estudando: typeScript, react.js e conhecendo o csharp 
-- ⛳ Meta: entrar na area.
+- ⛳ Meta: FullStack.
  ## Essas são as ferramentas que conheço e utilizo
 <div style="display: inline-block;"><br>
     <img width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
