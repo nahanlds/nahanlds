@@ -1,8 +1,8 @@
 # Olá, eu sou o Nathan 👋 <br> Seja bem vindo(a) ao meu repositorio.
 
 
-- 💻 Sou desenvolvedor front-end
-- 📖 Estudando: typeScript, react.js e conhecendo o csharp 
+- 💻 Aspirante a desenvolvedor front-end.
+- 📖 Estudando: typeScript, react.js.
 - ⛳ Meta: FullStack.
  ## Essas são as ferramentas que conheço e utilizo
 <div style="display: inline-block;"><br>
@@ -12,8 +12,7 @@
     <img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
-    <img width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 <br>
 
