@@ -2,8 +2,9 @@
 
 
 - 💻 Aspirante a desenvolvedor front-end.
-- 📖 Estudando: typeScript, react.js.
-- ⛳ Meta: FullStack.
+- 📖 Estudando os próximos passos.
+- ⛳ Meta : ?
+
  ## Essas são as ferramentas que conheço e utilizo
 <div style="display: inline-block;"><br>
     <img width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -20,7 +21,7 @@
 
 - [Pagina da Newsletter](https://alura-newsletter-pied.vercel.app/)
 - [todo list](https://todo-list-nth.vercel.app/)
-- [Calculadora](https://calculadora-nth.vercel.app/)
-- [Calculador de idade](https://calculador-de-idade-nth.vercel.app/)
-- [7days of code](https://7daysofcodenathanlds.vercel.app/)
+- [Numero-secreto](https://numero-secreto-nine.vercel.app/)
+- [Organo](https://organo-nthn.vercel.app/)
+- [Meteora](https://nahanlds.github.io/meteora/)
   
